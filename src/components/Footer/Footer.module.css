@@ -1,0 +1,22 @@
+.container {
+    background-color: rgb(70, 71, 68);
+    color: #fff;
+    padding: 0.1rem;
+    text-align: center;
+}
+
+.title{
+    margin-bottom: 1rem;
+}
+
+.author {
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+    
+}
